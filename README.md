@@ -1,4 +1,4 @@
-# Logistic_prediction: predicting late deliveries
+# Loogistic_parcel_trracker: predicting late deliveries
 
 Predict which parcels will arrive late **at the moment the carrier picks them up**, explain why, and suggest what operations should do about it.
 
