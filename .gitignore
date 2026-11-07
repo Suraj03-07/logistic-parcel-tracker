@@ -1,0 +1,9 @@
+# raw Olist data is large and has its own license: download it from Kaggle
+data/raw/
+
+# generated files
+predictions.csv
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
